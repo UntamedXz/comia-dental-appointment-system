@@ -121,13 +121,6 @@
 
       <li class="nav-item">
         <a class="nav-link collapsed" href="#">
-          <i class="bi bi-envelope"></i>
-          <span>Inquire</span>
-        </a>
-      </li><!-- End Contact Page Nav -->
-
-      <li class="nav-item">
-        <a class="nav-link collapsed" href="#">
           <i class="fa-solid fa-chart-line"></i>
           <span>Reports</span>
         </a>
